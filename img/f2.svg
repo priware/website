@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22.090944mm"
+   height="52.916668mm"
+   viewBox="0 0 22.090944 52.916668"
+   version="1.1"
+   id="svg90680"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="f2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview90682"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.75187991"
+     inkscape:cx="-171.56995"
+     inkscape:cy="168.90995"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs90677" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-150.1129,-103.96535)">
+    <g
+       id="use90493"
+       transform="matrix(0.88194444,0,0,0.88194444,132.93527,102.20146)"
+       style="fill:#ff6600">
+      <title
+         id="title90720">Fast and Accurate</title>
+      <path
+         fill="#ffce31"
+         d="M 44.525,2 35.475,4.48 29.398,2 19.477,36.35 H 29.944 L 20.778,62 43.222,27.65 H 29.714 Z"
+         id="path90722"
+         style="fill:#ff6600" />
+    </g>
+  </g>
+</svg>

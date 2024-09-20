@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="26.458334mm"
+   height="52.916668mm"
+   viewBox="0 0 26.458334 52.916668"
+   version="1.1"
+   id="svg90766"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="s2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview90768"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.75187991"
+     inkscape:cx="-18.619995"
+     inkscape:cy="198.16994"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs90763" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-109.69358,-96.223638)">
+    <g
+       id="use90389"
+       transform="matrix(0.66145833,0,0,0.66145833,101.75608,101.51531)">
+      <title
+         id="title90820">Compliance with Standards</title>
+      <path
+         fill="#ffc200"
+         d="m 33.943,31.767 c 0,1.073 -0.869,1.943 -1.943,1.943 -1.074,0 -1.943,-0.87 -1.943,-1.943 h -0.869 c 0,1.554 1.258,2.813 2.813,2.813 1.555,0 2.813,-1.259 2.813,-2.813 h -0.871"
+         id="path90822" />
+      <g
+         fill="#e68a00"
+         id="g90828">
+        <path
+           d="m 33,37.28 h -2 v -3.959 c 0,-1.552 2,-1.552 2,0 v 3.959"
+           id="path90824" />
+        <circle
+           cx="32"
+           cy="48.5"
+           id="circle90826"
+           r="13.5" />
+      </g>
+      <circle
+         fill="#ffc200"
+         cx="32"
+         cy="48.5"
+         id="circle90830"
+         r="12.5" />
+      <g
+         fill="#e68a00"
+         id="g90842">
+        <path
+           d="m 30.26,46.24 -1.744,-2.391 -7.789,1.129 5.642,1.826 z"
+           id="path90832" />
+        <path
+           d="M 33.74,46.24 35.484,43.849 32,36.809 v 5.914 z"
+           id="path90834" />
+        <path
+           d="m 34.818,49.54 2.821,0.91 5.631,-5.472 -5.635,1.826 z"
+           id="path90836" />
+        <path
+           d="m 32,51.578 v 2.962 l 6.969,3.65 -3.487,-4.79 z"
+           id="path90838" />
+        <path
+           d="m 29.18,49.54 -2.815,0.91 -1.335,7.74 3.49,-4.79 z"
+           id="path90840" />
+      </g>
+      <g
+         fill="#ffe394"
+         id="g90854">
+        <path
+           d="m 32,42.727 v -5.914 l -3.484,7.04 1.744,2.391 z"
+           id="path90844" />
+        <path
+           d="M 37.635,46.804 43.27,44.978 35.484,43.849 33.74,46.24 Z"
+           id="path90846" />
+        <path
+           d="m 34.818,49.54 0.664,3.86 3.487,4.79 -1.33,-7.74 z"
+           id="path90848" />
+        <path
+           d="M 28.52,53.4 25.03,58.19 32,54.54 v -2.962 z"
+           id="path90850" />
+        <path
+           d="m 26.369,46.804 -5.642,-1.826 5.638,5.472 2.815,-0.91 z"
+           id="path90852" />
+      </g>
+      <g
+         fill="#f3f7fa"
+         id="g90860">
+        <path
+           d="m 22,28.24 2.27,3.744 H 27 V 2 h -5 z"
+           id="path90856" />
+        <path
+           d="m 37,2 v 29.984 h 2.732 L 42,28.24 V 2 Z"
+           id="path90858" />
+      </g>
+      <g
+         fill="#42ade2"
+         id="g90868">
+        <path
+           d="m 17,19.992 5,8.248 V 2 h -5 z"
+           id="path90862" />
+        <path
+           d="M 27,2 H 37 V 31.984 H 27 Z"
+           id="path90864" />
+        <path
+           d="m 42,2 v 26.24 l 4.995,-8.248 H 47 V 2 Z"
+           id="path90866" />
+      </g>
+      <path
+         fill="#d3976e"
+         d="m 23,30.06 h 18 v 1 H 23 Z"
+         id="path90870" />
+      <path
+         fill="#89664c"
+         d="m 23,31.06 h 18 v 1 H 23 Z"
+         id="path90872" />
+    </g>
+  </g>
+</svg>
